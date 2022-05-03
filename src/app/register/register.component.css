@@ -1,0 +1,5 @@
+.form-register{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
